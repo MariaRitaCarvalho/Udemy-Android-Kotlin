@@ -57,7 +57,7 @@ true
 
 (a && ((b || c) || d)
 false && ((false || true) || true)
-false && (false && true)
+false && (true || true)
 false
 
 (a || ((!b && c) || !d))
