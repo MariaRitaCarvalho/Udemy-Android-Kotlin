@@ -1,6 +1,6 @@
 # Anotações
 
-[Anotação - 28/08/2024]
+[Anotação - 29/08/2024]
 
 Iniciei o curso de [Desenvolvimento de Aplicativos Android usando Kotlin](https://www.udemy.com/course/curso-desenvolvedor-kotlin/?couponCode=SKILLS4SALEB) em 2023, mas precisei dar uma pausa temporária. Em agosto de 2024, estou retomando as atividades e trabalhando para atualizar este repositório com base no meu progresso no curso.
 
